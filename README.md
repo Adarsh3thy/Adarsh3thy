@@ -24,7 +24,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
   </a>
 </div>
-   [![HitCount](https://hits.dwyl.com/Adarsh3thy/Adarsh3thy.svg?style=flat-square)](http://hits.dwyl.com/Adarsh3thy/Adarsh3thy)
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -34,6 +33,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+I'm a Full Stack developer, currently pursuing Masters in Software Engineering at San Jose State University 🤓
+
+- 🔭 I’m currently working on developing a Event ticketing System on Polygon blockchain
+- 🌱 I’m currently learning to use GPT-3 APIs
+- 👯 I’m looking to collaborate on developing apps using GPT-3 APIs
+- 🤔 I’m looking for help in performing load testing on Ethereum Smart contracts
+- 😄 Pronouns: he/him
+- 💬 Ask me about anything and everything 
+
 
 
 
