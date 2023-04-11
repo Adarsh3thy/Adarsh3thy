@@ -24,6 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
   </a>
 </div>
+   [![HitCount](https://hits.dwyl.com/Adarsh3thy/Adarsh3thy.svg?style=flat-square)](http://hits.dwyl.com/Adarsh3thy/Adarsh3thy)
   <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
