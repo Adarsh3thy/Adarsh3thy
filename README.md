@@ -33,7 +33,8 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-I'm a Full Stack developer, currently pursuing Masters in Software Engineering at San Jose State University 🤓
+### :man_technologist: About Me :
+I'm a Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, currently pursuing Masters in Software Engineering at San Jose State University 🤓
 
 - 🔭 I’m currently working on developing a Event ticketing System on Polygon blockchain
 - 🌱 I’m currently learning to use GPT-3 APIs
