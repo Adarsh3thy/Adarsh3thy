@@ -22,8 +22,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/adarsh-murthy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://adarsh-murthy.onrender.com/" alt="portfolio"/>
+  <a href="https://adarsh-murthy.onrender.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio"/>
   </a>
 </div>
 
