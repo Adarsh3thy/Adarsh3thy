@@ -45,7 +45,7 @@ I'm a Full Stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - 🤔 I’m looking for help in performing load testing on Ethereum Smart contracts
 - 😄 Pronouns: he/him
 - 💬 Ask me about anything and everything 
-- - 📫 Reach me on <a href="https://www.linkedin.com/in/adarsh-murthy/">
+- 📫 Reach me on <a href="https://www.linkedin.com/in/adarsh-murthy/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
